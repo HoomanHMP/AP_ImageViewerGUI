@@ -1,4 +1,4 @@
-ImageViewer is a simple Java project of mine.
+ImageViewer is a simple Java project that mostly uses AWT and Swing.
 Using this code, you can choose any image you want and then resize, lower the brightness, Grayscale, or just enjoy displaying a plane version of your image.
 
 ![image](https://github.com/HoomanHMP/AP_ImageViewerGUI/assets/153434854/903b35e9-7cf5-4dd2-9659-4fb5cbab5fc5)
